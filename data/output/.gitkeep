@@ -1,0 +1,4 @@
+# Los archivos Excel generados por el pipeline se guardan aquí:
+# - resultados_1.xlsx       (Step 1: MyGene.info + Reactome)
+# - resultados_gwas.xlsx    (Step 2: GWAS Catalog)
+# - intermedio_bd.xlsx      (Step 3: tablas normalizadas para BD)

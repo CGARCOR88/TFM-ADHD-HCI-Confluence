@@ -1,0 +1,26 @@
+# Archivos de datos Excel (no subir al repositorio)
+data/input/*.xlsx
+data/input/*.xls
+data/output/*.xlsx
+data/output/*.xls
+
+# Caché de APIs (archivos grandes generados automáticamente)
+data/cache/
+
+# Logs
+logs/*.log
+logs/*.txt
+
+# Directorio con scripts antiguos (no forma parte del pipeline)
+TFM-GENES/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.env
+
+# IDE
+.vscode/
+.idea/
