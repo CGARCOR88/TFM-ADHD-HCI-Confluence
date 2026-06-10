@@ -1,4 +1,4 @@
-# TFM-GENES
+# TFM-ADHD-HCI-Confluence
 
 Bioinformatics pipeline for the analysis of genes associated with **ADHD** (Attention Deficit Hyperactivity Disorder) and **HCI** (High Cognitive Intelligence / Cognitive Performance).
 
